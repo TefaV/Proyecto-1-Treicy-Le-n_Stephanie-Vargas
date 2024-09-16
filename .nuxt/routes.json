@@ -1,0 +1,44 @@
+[
+  {
+    "name": "directores",
+    "path": "/directores",
+    "component": "C:\\\\Users\\\\vstep\\\\Desktop\\\\Tutorial_06\\\\pages\\\\directores.vue",
+    "chunkName": "pages/directores",
+    "_name": "_55114c44"
+  },
+  {
+    "name": "productoras",
+    "path": "/productoras",
+    "component": "C:\\\\Users\\\\vstep\\\\Desktop\\\\Tutorial_06\\\\pages\\\\productoras.vue",
+    "chunkName": "pages/productoras",
+    "_name": "_227eb02a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\vstep\\\\Desktop\\\\Tutorial_06\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_673769b8"
+  },
+  {
+    "name": "director-slug",
+    "path": "/director/:slug?",
+    "component": "C:\\\\Users\\\\vstep\\\\Desktop\\\\Tutorial_06\\\\pages\\\\director\\\\_slug.vue",
+    "chunkName": "pages/director/_slug",
+    "_name": "_dc9cbf38"
+  },
+  {
+    "name": "peliculas-slug",
+    "path": "/peliculas/:slug?",
+    "component": "C:\\\\Users\\\\vstep\\\\Desktop\\\\Tutorial_06\\\\pages\\\\peliculas\\\\_slug.vue",
+    "chunkName": "pages/peliculas/_slug",
+    "_name": "_22f11c5a"
+  },
+  {
+    "name": "productora-slug",
+    "path": "/productora/:slug?",
+    "component": "C:\\\\Users\\\\vstep\\\\Desktop\\\\Tutorial_06\\\\pages\\\\productora\\\\_slug.vue",
+    "chunkName": "pages/productora/_slug",
+    "_name": "_64f32101"
+  }
+]

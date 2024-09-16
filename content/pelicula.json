@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "titulo": "El teléfono negro",
+    "slug": "el-teléfono-negro",
+    "genero": "Terror",
+    "año": 2022,
+    "duracion": 103,
+    "director_id": 1,
+    "productora_id": 1
+  },
+  {
+    "id": 2,
+    "titulo": "IT",
+    "slug": "it",
+    "genero": "Terror sobrenatural",
+    "año": 2017,
+    "duracion": 135,
+    "director_id": 2,
+    "productora_id": 2
+  },
+  {
+    "id": 3,
+    "titulo": "SAW X",
+    "slug": "saw",
+    "genero": "Terror",
+    "año": 2023,
+    "duracion": 118,
+    "director_id": 3,
+    "productora_id": 3
+  },
+  {
+    "id": 4,
+    "titulo": "Posesión infernal",
+    "slug": "posesión-infernal",
+    "genero": "Terror",
+    "año": 2023,
+    "duracion": 85,
+    "director_id": 4,
+    "productora_id": 2
+  },
+  {
+    "id": 5,
+    "titulo": "Líbranos del mal",
+    "slug": "líbranos-del-mal",
+    "genero": "Terror",
+    "año": 2014,
+    "duracion": 118,
+    "director_id": 1,
+    "productora_id": 4
+  },
+  {
+    "id": 6,
+    "titulo": "Spiral",
+    "slug": "spiral",
+    "genero": "Terror",
+    "año": 2021,
+    "duracion": 93,
+    "director_id": 5,
+    "productora_id": 3
+  },
+  {
+    "id": 7,
+    "titulo": "Psicosis",
+    "slug": "psicosis",
+    "genero": "Terror",
+    "año": 1960,
+    "duracion": 109,
+    "director_id": 6,
+    "productora_id": 5
+  },
+  {
+    "id": 8,
+    "titulo": "MAMA",
+    "slug": "mama",
+    "genero": "Terror",
+    "año": 2013,
+    "duracion": 100,
+    "director_id": 2,
+    "productora_id": 6
+  },
+  {
+    "id": 9,
+    "titulo": "Siniestro",
+    "slug": "siniestro",
+    "genero": "Terror",
+    "año": 2012,
+    "duracion": 110,
+    "director_id": 1,
+    "productora_id": 1
+  },
+  {
+    "id": 10,
+    "titulo": "Annabelle",
+    "slug": "annabelle",
+    "genero": "Terror sobrenatural",
+    "año": 2014,
+    "duracion": 99,
+    "director_id": 2,
+    "productora_id": 2
+  },
+  {
+    "id": 11,
+    "titulo": "El juego del miedo II",
+    "slug": "el-juego-del-miedo-ii",
+    "genero": "Terror",
+    "año": 2005,
+    "duracion": 93,
+    "director_id": 5,
+    "productora_id": 3
+  },
+  {
+    "id": 12,
+    "titulo": "Los pájaros",
+    "slug": "los-pájaros",
+    "genero": "Terror",
+    "año": 1963,
+    "duracion": 119,
+    "director_id": 6,
+    "productora_id": 5
+  }
+]
+
+
+
+
+
+
+
+  
+

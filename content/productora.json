@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "nombre": "Blumhouse Productions",
+    "slug": "blumhouse-productions"
+  },
+
+  {
+    "id": 2,
+    "nombre": "New Line Cinema",
+    "slug": "new-line-cinema"
+  },
+  {
+    "id": 3,
+    "nombre": "Twisted Pictures",
+    "slug": "twisted-pictures"
+  },
+
+  {
+    "id": 4,
+    "nombre": "Screen Gems",
+    "slug": "screen-gems"
+  },
+  {
+    "id": 5,
+    "nombre": "Shamley Productions",
+    "slug": "shamley-productions"
+  },
+
+  {
+    "id": 6,
+    "nombre": "Universal Pictures",
+    "slug": "universal-pictures"
+  }
+
+
+
+
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "nombre": "Scott Derrickson",
+    "slug": "scott-derrickson"
+  },
+  {
+    "id": 2,
+    "nombre": "Andrés Muschietti",
+    "slug": "andrés-muschietti"
+  },
+
+  {
+    "id": 3,
+    "nombre": "Kevin Greutert",
+    "slug": "kevin-greutert"
+  },
+
+  {
+    "id": 4,
+    "nombre": "Sam Raimi",
+    "slug": "sam-raimi"
+  },
+
+  {
+    "id": 5,
+    "nombre": "Darren Lynn Bousman",
+    "slug": "darren-lynn"
+  },
+
+  {
+    "id": 6,
+    "nombre": "Alfred Hitchcock",
+    "slug": "alfred-hitchcock"
+  }
+
+
+
+]
